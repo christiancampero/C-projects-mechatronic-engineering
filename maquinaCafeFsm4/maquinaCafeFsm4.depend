@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1597506975 source:c:\users\chris\desktop\programacion 2 funciones\maquinacafefsm4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"maquinaCafeFsm4.h"
+
+1597504427 c:\users\chris\desktop\programacion 2 funciones\maquinacafefsm4\maquinacafefsm4.h
+
